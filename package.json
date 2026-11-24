@@ -1,0 +1,8 @@
+{
+  "name": "recetasapp",
+  "private": true,
+  "scripts": {
+    "dev": "flutter run -d chrome",
+    "build": "flutter build web"
+  }
+}
